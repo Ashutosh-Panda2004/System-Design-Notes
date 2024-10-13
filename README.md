@@ -1,3 +1,41 @@
+### Operating System
+
+An Operating System (OS) handles the basic tasks of a computer like managing files, running programs, and controlling memory. In simple terms, it acts as a manager for all the resources of the computer. It also serves as a bridge between the user and the machine, making it one of the most important pieces of software in any device.
+
+An Operating System is a type of software that connects the hardware with system programs, allowing them to work together smoothly. There are different types of Operating Systems, and some of them are listed below:
+
+### Types of Operating Systems
+
+1. **Batch Operating System**
+2. **Multi-Programming System**
+3. **Multi-Processing System**
+4. **Multi-Tasking Operating System**
+5. **Time-Sharing Operating System**
+6. **Distributed Operating System**
+7. **Network Operating System**
+8. **Real-Time Operating System**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Detailed Lecture Notes: Pre-emptive and Non Pre-emptive Scheduling
 
 ---
